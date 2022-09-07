@@ -35,7 +35,7 @@ app.use(session({
 )
 
 //routes
-app.use('/', mainRoutes)
+// app.use('/', mainRoutes)
 
 
 
